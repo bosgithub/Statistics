@@ -1,7 +1,7 @@
 # Statistics
+What is bootstrap?
 
 What is Normal distribution?
-
 
 
 What is central limit theorem?
